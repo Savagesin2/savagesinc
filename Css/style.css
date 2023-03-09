@@ -1,0 +1,8 @@
+.bg-image{
+    background-image: url(/Images/Rectangle\ 3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.float-right{
+    float: right;
+}
